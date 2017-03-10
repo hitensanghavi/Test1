@@ -9,6 +9,10 @@ namespace testWebApplication1
 {
     public class Program
     {
+        /// <summary>
+        /// Branch 1
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
